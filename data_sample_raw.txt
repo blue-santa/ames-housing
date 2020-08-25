@@ -1,0 +1,486 @@
+Id
+   1
+   2
+   3
+   4
+   5
+MSSubClass
+   60
+   20
+   60
+   70
+   60
+MSZoning
+   RL
+   RL
+   RL
+   RL
+   RL
+LotFrontage
+   65.0
+   80.0
+   68.0
+   60.0
+   84.0
+LotArea
+   8450
+   9600
+   11250
+   9550
+   14260
+Street
+   Pave
+   Pave
+   Pave
+   Pave
+   Pave
+Alley
+   nan
+   nan
+   nan
+   nan
+   nan
+LotShape
+   Reg
+   Reg
+   IR1
+   IR1
+   IR1
+LandContour
+   Lvl
+   Lvl
+   Lvl
+   Lvl
+   Lvl
+Utilities
+   AllPub
+   AllPub
+   AllPub
+   AllPub
+   AllPub
+LotConfig
+   Inside
+   FR2
+   Inside
+   Corner
+   FR2
+LandSlope
+   Gtl
+   Gtl
+   Gtl
+   Gtl
+   Gtl
+Neighborhood
+   CollgCr
+   Veenker
+   CollgCr
+   Crawfor
+   NoRidge
+Condition1
+   Norm
+   Feedr
+   Norm
+   Norm
+   Norm
+Condition2
+   Norm
+   Norm
+   Norm
+   Norm
+   Norm
+BldgType
+   1Fam
+   1Fam
+   1Fam
+   1Fam
+   1Fam
+HouseStyle
+   2Story
+   1Story
+   2Story
+   2Story
+   2Story
+OverallQual
+   7
+   6
+   7
+   7
+   8
+OverallCond
+   5
+   8
+   5
+   5
+   5
+YearBuilt
+   2003
+   1976
+   2001
+   1915
+   2000
+YearRemodAdd
+   2003
+   1976
+   2002
+   1970
+   2000
+RoofStyle
+   Gable
+   Gable
+   Gable
+   Gable
+   Gable
+RoofMatl
+   CompShg
+   CompShg
+   CompShg
+   CompShg
+   CompShg
+Exterior1st
+   VinylSd
+   MetalSd
+   VinylSd
+   Wd Sdng
+   VinylSd
+Exterior2nd
+   VinylSd
+   MetalSd
+   VinylSd
+   Wd Shng
+   VinylSd
+MasVnrType
+   BrkFace
+   None
+   BrkFace
+   None
+   BrkFace
+MasVnrArea
+   196.0
+   0.0
+   162.0
+   0.0
+   350.0
+ExterQual
+   Gd
+   TA
+   Gd
+   TA
+   Gd
+ExterCond
+   TA
+   TA
+   TA
+   TA
+   TA
+Foundation
+   PConc
+   CBlock
+   PConc
+   BrkTil
+   PConc
+BsmtQual
+   Gd
+   Gd
+   Gd
+   TA
+   Gd
+BsmtCond
+   TA
+   TA
+   TA
+   Gd
+   TA
+BsmtExposure
+   No
+   Gd
+   Mn
+   No
+   Av
+BsmtFinType1
+   GLQ
+   ALQ
+   GLQ
+   ALQ
+   GLQ
+BsmtFinSF1
+   706
+   978
+   486
+   216
+   655
+BsmtFinType2
+   Unf
+   Unf
+   Unf
+   Unf
+   Unf
+BsmtFinSF2
+   0
+   0
+   0
+   0
+   0
+BsmtUnfSF
+   150
+   284
+   434
+   540
+   490
+TotalBsmtSF
+   856
+   1262
+   920
+   756
+   1145
+Heating
+   GasA
+   GasA
+   GasA
+   GasA
+   GasA
+HeatingQC
+   Ex
+   Ex
+   Ex
+   Gd
+   Ex
+CentralAir
+   Y
+   Y
+   Y
+   Y
+   Y
+Electrical
+   SBrkr
+   SBrkr
+   SBrkr
+   SBrkr
+   SBrkr
+1stFlrSF
+   856
+   1262
+   920
+   961
+   1145
+2ndFlrSF
+   854
+   0
+   866
+   756
+   1053
+LowQualFinSF
+   0
+   0
+   0
+   0
+   0
+GrLivArea
+   1710
+   1262
+   1786
+   1717
+   2198
+BsmtFullBath
+   1
+   0
+   1
+   1
+   1
+BsmtHalfBath
+   0
+   1
+   0
+   0
+   0
+FullBath
+   2
+   2
+   2
+   1
+   2
+HalfBath
+   1
+   0
+   1
+   0
+   1
+BedroomAbvGr
+   3
+   3
+   3
+   3
+   4
+KitchenAbvGr
+   1
+   1
+   1
+   1
+   1
+KitchenQual
+   Gd
+   TA
+   Gd
+   Gd
+   Gd
+TotRmsAbvGrd
+   8
+   6
+   6
+   7
+   9
+Functional
+   Typ
+   Typ
+   Typ
+   Typ
+   Typ
+Fireplaces
+   0
+   1
+   1
+   1
+   1
+FireplaceQu
+   nan
+   TA
+   TA
+   Gd
+   TA
+GarageType
+   Attchd
+   Attchd
+   Attchd
+   Detchd
+   Attchd
+GarageYrBlt
+   2003.0
+   1976.0
+   2001.0
+   1998.0
+   2000.0
+GarageFinish
+   RFn
+   RFn
+   RFn
+   Unf
+   RFn
+GarageCars
+   2
+   2
+   2
+   3
+   3
+GarageArea
+   548
+   460
+   608
+   642
+   836
+GarageQual
+   TA
+   TA
+   TA
+   TA
+   TA
+GarageCond
+   TA
+   TA
+   TA
+   TA
+   TA
+PavedDrive
+   Y
+   Y
+   Y
+   Y
+   Y
+WoodDeckSF
+   0
+   298
+   0
+   0
+   192
+OpenPorchSF
+   61
+   0
+   42
+   35
+   84
+EnclosedPorch
+   0
+   0
+   0
+   272
+   0
+3SsnPorch
+   0
+   0
+   0
+   0
+   0
+ScreenPorch
+   0
+   0
+   0
+   0
+   0
+PoolArea
+   0
+   0
+   0
+   0
+   0
+PoolQC
+   nan
+   nan
+   nan
+   nan
+   nan
+Fence
+   nan
+   nan
+   nan
+   nan
+   nan
+MiscFeature
+   nan
+   nan
+   nan
+   nan
+   nan
+MiscVal
+   0
+   0
+   0
+   0
+   0
+MoSold
+   2
+   5
+   9
+   2
+   12
+YrSold
+   2008
+   2007
+   2008
+   2006
+   2008
+SaleType
+   WD
+   WD
+   WD
+   WD
+   WD
+SaleCondition
+   Normal
+   Normal
+   Normal
+   Abnorml
+   Normal
+SalePrice
+   208500
+   181500
+   223500
+   140000
+   250000
