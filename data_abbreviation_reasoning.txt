@@ -52,6 +52,20 @@ This is not enough data to perform multivariable regression, and commercial prop
 
 All properties of type C (all) are now dropped.
 
+#### August 25, 2020
+
+I spent my available time over the last few weeks reading through other texts on pandas and numpy. After having improved my understanding of this Jupyter interface, I now return to predicting these housing prices.
+
+I'm making a flow chart that breaks down the data into several areas.
+
+The first area takes all hard numerical data that is ubiquitous across all data and creates a preliminary linear regression.
+
+The second area goes through key non-numerical data, calculates how each data type theoretically and on average changes the value of a property type, and applies that to the target.
+
+The third area goes through all remaining data types, one by one, and adjusts the target price according to the intricacies found in the data.
+
+This results in a final price prediction for each data type.
+
 ## Id
 
 An arbitrary index number.
@@ -2072,7 +2086,7 @@ Keep (for now)
 
 ## MiscVal
 
-$Value of miscellaneous feature.
+Value of miscellaneous feature.
 
 #### Data Sample
 
