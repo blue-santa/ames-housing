@@ -1,1 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T04:36:29.283Z" agent="5.0 (X11)" etag="CpUuv6jJZe-gES8fq0kU" version="13.6.5" type="github"><diagram id="4_OBXcebH9oap417anLf" name="Page-1">1Ztbd5s4EMc/jR/Tw8X48hjfknO2btO62908qjDGagXyESK2++krjDCGId30JLa0T0aDJNBPo9GfAff8abK/E2S7WfIIWM9zon3Pn/U8z3UdT/0UlkNpCYJxaYgFjXSl2rCiP0EbHW3NaQRZo6LknEm6bRpDnqYQyoaNCMF3zWprzppX3ZIYkGEVEoat/9BIbkrrKHBq+z3QeCNPA9ZnElJV1oZsQyK+OzP5854/FZzL8ijZT4EV8CouZbvFM2dPNyYglS9psFzv1ut5nny/H4+96fLHbAjOje7libBcD/ie5xlNY2V8EDSE4y9ENJSUp3og8lDRETxPIygu4PT8yW5DJay2JCzO7pQ/KNtGJkyVXHWoLwVCwv7ZMbgnMsqlgCcgxUFV0Q38YVA22dVzcSK+OZuHan6Inv741FVNSB1oSH8AzEfAet6AqatOIvqkDuPicEmoYuV84OnNhzwBxZEUHU+JhJgLqvxZt1G3cNbMON7+WGPTi3XkYNpeB+3BpWj3/4T2/4n0oAl6jEH7/Q7Q/qVAD18C+j2XC8FTWYRMO7EOm1jdfocDd4UL71JcRzi+EhE1vfU1zASX5BiZ/dnN2HkbiDf9oEFRRdOXhYGLURy/xDsrsCropjXct3fTayAPOgLCdZFX+uuM+WdIVKQttcGt+EalIMcxzIgkFiIdDN81oQ5ryznWQXBNrFhwLUn2NRW3Al4J8QLhc2g6fLoewjXJEvkpf23cfAtYLe/yjcPC2rSAtaDpauEax+WNrXMurC4fgYhJTtWeYRqXO7IOV9CJS+0KPLqNIuPEkIMZF3/uABFTEtqKSI/cyzws/AjyUQ2RMGZFtG8/Gg8HpoF5WKFpYFOeml+OCNioU31dFxlWX6cd0jNOrKW+PMe4h3Wrr0XO2KTIbtoGzPyS7FZg94StrQDWjvoWEMMazBr3agsKC2hhCeal0YKJ1cI4LeRbxp+HvC75tSvURBHwPxknhvzLPDGswYr49Xdqo3+Z3x5xcvcLl4QVyCwAhtzLPDCcx3UzaUf4amsJ42vR73g1a4uOaMPqylZfFxZWqmopfk6y229Pd4JEYBsy3zOODGvVOyJIDI9iYkH+qx29LADWIVWpgC1TFDLjvNrbo/l0tI/F6l9UhhtIrVmUaIs0H8iwZp1AJBJrkCEZZh4ZFq1lIFtQ8x8soSyY+WWJVeuSZuFXC3KsKOYHxmFhxbrkq+IbQtOs2uvQ7/pW66qsqjcIrfdDVtBqqy/zsAaICUQxrHSRC7nhMU8Jm9fWSZNaXec951vN6jtIedBf0ZJc8iZJ2FP5b9H8XaBLj2dnZnvd87FwqAqpGm/ZaFQVH+s+imLd8FhqtHwAQRUyENpYDrsY6++nUqHhuQjhNwwrQSaJiEH+Z0XsHAIYkfSpeSdvP9XP7U9TIuzTjeZ1dh9vUCUvK1+cmt+jAhx3V6EASB+4CM3nCtCDiQXvAQOcW3ngnFnhYO2tyrx/4dzKx632LgsSd8i/Agv8C+dW5mnIeAaRLdjaWtsKbDjD4q+scbThNYGpYv3PoOO5s/9X+fNf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-26T04:36:45.536Z" agent="5.0 (X11)" etag="YUp2_exEYEvirrt-YqoD" version="13.6.5" type="github">
+  <diagram id="4_OBXcebH9oap417anLf" name="Page-1">
+    <mxGraphModel dx="1102" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MfwffEumjH992CMkD7e0-1" value="Housing Price Prediction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="375" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-3" value="&lt;div&gt;Main Non-Numerical Categories&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-4" value="&lt;div&gt;Main Numerical Categories&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-7" value="&lt;div&gt;LotFrontage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-8" value="Hard Numerical" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="225" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-9" value="&lt;div&gt;Hard Non-numerical&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-45" y="590" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-10" value="Remaining Arbitrary Data" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-67.5" y="767.5" width="165" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-11" value="MasVnrArea" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="170" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-12" value="BsmtQual" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="75" y="730" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-13" value="BsmtFinSF1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="170" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-14" value="YearBuilt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="170" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-15" value="YearRemodAdd" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-16" value="LotArea" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-17" value="OverallQual" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="760" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-20" value="OverallCond" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="787.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-21" value="BsmtFinSF2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-22" value="BsmtFullBath" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-23" value="BsmtHalfBath" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-24" value="FullBath" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-25" value="2ndFlrSF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="230" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-26" value="LowQualFinSQ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="230" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-27" value="BsmtUnSF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-28" value="TotalBsmtSF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-29" value="1stFlrSF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="230" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-31" value="HalfBath" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-32" value="TotRmsAbvGrade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="320" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-33" value="GarageYrBlt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="320" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-34" value="Fireplaces" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="730" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-35" value="KitchenAbvGrade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-36" value="BedrmAbvGrade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-37" value="GarageFin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="730" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-38" value="MiscVal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-39" value="MoSold" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="380" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-40" value="YearSold" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="380" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.8;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MfwffEumjH992CMkD7e0-34" target="MfwffEumjH992CMkD7e0-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-47" value="GarageCars" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="320" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-48" value="GarageArea" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-50" value="ScreenPorch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="787.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-51" value="PoolArea" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-52" value="OpenPorchSF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="757.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-53" value="EnclosedPorchSF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="757.5" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MfwffEumjH992CMkD7e0-54" value="3SnPorchSF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="757.5" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
