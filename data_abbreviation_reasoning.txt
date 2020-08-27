@@ -66,6 +66,18 @@ The third area goes through all remaining data types, one by one, and adjusts th
 
 This results in a final price prediction for each data type.
 
+#### August 26, 2020
+
+Yesterday, I created an initial flow chart showing the paths through examining the data I intend to take.
+
+Today, I plumbed the output from the `data_train.describe()` method and came to the conclusion that even more features can be dropped.
+
+Currently, there are 38 in the output of the `describe()` method. `3` of these columns can be pushed out of the initial multivariable regression as they contain misleading data, leaving `35`. 
+
+From here, another `10` or more should be able to be cut, because they contain `0` values that are misleading without further munging.
+
+In the end, I expect to have between `15` and `25` columns for the initial multivariable regression.
+
 ## Id
 
 An arbitrary index number.
