@@ -1,1 +1,16 @@
-'LotArea', 'TotalBsmtSF', '1stFlrSF', '2ndFlrSF', 'LowQualFinSF', 'GrLivArea', 'BsmtFullBath', 'BsmtHalfBath', 'FullBath', 'HalfBath', 'BedroomAbvGr', 'KitchenAbvGr', 'TotRmsAbvGrd', 'GarageArea', 'GarageCars', 'AgeWhenSold'
+LotArea
+TotalBsmtSF
+1stFlrSF
+2ndFlrSF
+LowQualFinSF
+GrLivArea
+BsmtFullBath
+BsmtHalfBath
+FullBath
+HalfBath
+BedroomAbvGr
+KitchenAbvGr
+TotRmsAbvGrd
+GarageArea
+GarageCars
+AgeWhenSold

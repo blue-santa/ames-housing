@@ -1,0 +1,8 @@
+* `GrLivArea`
+* `FullBath`
+* `TotRmsAbvGrd`
+* `GarageArea`
+* `GarageCars`
+* `2ndFlrSF`
+* `HalfBath`
+* `AgeWhenSold`
